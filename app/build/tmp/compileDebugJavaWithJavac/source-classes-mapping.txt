@@ -1,0 +1,2 @@
+id/sitifauziyah/catatanpenjualan/BuildConfig.java
+ id.sitifauziyah.catatanpenjualan.BuildConfig
